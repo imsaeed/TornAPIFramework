@@ -1,0 +1,21 @@
+C:\Users\Dave\AppData\Local\Temporary Projects\TornAPIFramework\bin\Debug\TornAPIFramework.exe
+C:\Users\Dave\AppData\Local\Temporary Projects\TornAPIFramework\bin\Debug\TornAPIFramework.pdb
+C:\Users\Dave\AppData\Local\Temporary Projects\TornAPIFramework\bin\Debug\TornAPIFramework.xml
+C:\Users\Dave\AppData\Local\Temporary Projects\TornAPIFramework\obj\x86\Debug\TornAPIFramework.frmStart.resources
+C:\Users\Dave\AppData\Local\Temporary Projects\TornAPIFramework\obj\x86\Debug\TornAPIFramework.Resources.resources
+C:\Users\Dave\AppData\Local\Temporary Projects\TornAPIFramework\obj\x86\Debug\TornAPIFramework.vbproj.GenerateResource.Cache
+C:\Users\Dave\AppData\Local\Temporary Projects\TornAPIFramework\obj\x86\Debug\TornAPIFramework.exe
+C:\Users\Dave\AppData\Local\Temporary Projects\TornAPIFramework\obj\x86\Debug\TornAPIFramework.xml
+C:\Users\Dave\AppData\Local\Temporary Projects\TornAPIFramework\obj\x86\Debug\TornAPIFramework.pdb
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\obj\x86\Debug\TornAPIFramework.exe
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\obj\x86\Debug\TornAPIFramework.xml
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\obj\x86\Debug\TornAPIFramework.pdb
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\bin\Debug\TornAPIFramework.exe
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\bin\Debug\TornAPIFramework.pdb
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\bin\Debug\TornAPIFramework.xml
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\obj\x86\Debug\TornAPIFramework.frmStart.resources
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\obj\x86\Debug\TornAPIFramework.Resources.resources
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\obj\x86\Debug\TornAPIFramework.vbproj.GenerateResource.Cache
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\obj\x86\Debug\TornAPIFramework.frmMain.resources
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\obj\x86\Debug\TornAPIFramework.frmDebug.resources
+C:\Users\Dave\documents\visual studio 2010\Projects\TornAPIFramework\TornAPIFramework\bin\Debug\TornAPIFramework.exe.config
